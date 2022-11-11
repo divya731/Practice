@@ -1,2 +1,2 @@
-I am Divya
-This is a practice project
+I am Divya.
+This is a practice project.
